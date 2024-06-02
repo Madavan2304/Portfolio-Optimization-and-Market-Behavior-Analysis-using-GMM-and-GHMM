@@ -1,4 +1,4 @@
-# Algorithmic-Trading-Project
+# Portfolio Optimization and Market Behavior Analysis using Gaussian Mixture Model and Gaussian Hidden Markov Model
 
 Objectives : The primary objectives of this project are twofold: portfolio optimization and stock market behavior analysis.
 
